@@ -942,12 +942,14 @@ D=1-\frac{V_{in}}{V_o}
 - 二极管
 - 输出电容 Co
 - 负载
-
 组成。
+<img width="1518" height="572" alt="image" src="https://github.com/user-attachments/assets/0f30af4c-e651-408b-921f-0a19b0664504" />
 
 ---
 
 ### 🔹 MOSFET 导通阶段
+<img width="972" height="405" alt="image" src="https://github.com/user-attachments/assets/550913a3-82ec-4dd4-90e6-6131243e436d" />
+
 
 MOSFET 导通后：
 
@@ -972,6 +974,8 @@ V_L=V_{in}
 ---
 
 ### 🔹 MOSFET 关断阶段
+
+<img width="896" height="471" alt="image" src="https://github.com/user-attachments/assets/6d849a8f-7537-4f2a-a9c7-14aa96d2d2a4" />
 
 MOSFET 关闭后：
 
@@ -1002,6 +1006,8 @@ VIN
 ```math
 V_o>V_{in}
 ```
+
+<img width="1019" height="921" alt="image" src="https://github.com/user-attachments/assets/2e0b176d-0901-4407-80a3-4546754c74f0" />
 
 > [!TIP]
 > BOOST 能够升压的核心，就是利用电感在 MOSFET 关断时产生的感应电压与输入电压叠加。

@@ -348,13 +348,8 @@ I_o-\frac{\Delta I_L}{2}
 
 因此电感电流大致呈三角波变化：
 
-```text
-          /\
-         /  \
-        /    \
--------/------\-------  Io
-      /        \
-```
+<img width="960" height="238" alt="image" src="https://github.com/user-attachments/assets/affac7f3-6af2-4fad-af68-cede1bd8410d" />
+
 
 > [!WARNING]
 > 电感饱和电流必须高于电感峰值电流，否则电感可能进入饱和状态，导致电流迅速增大。

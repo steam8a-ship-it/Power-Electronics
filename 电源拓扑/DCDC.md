@@ -105,6 +105,11 @@ $$
 
 ### 🔹 同步 BUCK
 
+<img width="941" height="314" alt="image" src="https://github.com/user-attachments/assets/c5ae9db5-879d-417b-a60e-c0824c63de2d" />
+
+详解见 https://blog.csdn.net/weixin_42107954/article/details/131000253
+
+
 同步 BUCK 使用一个 MOSFET 替代续流二极管。
 
 主要器件：

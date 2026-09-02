@@ -694,17 +694,8 @@ Dead Time
 
 ### 🔧 常见驱动结构
 
-```text
-MCU / PWM Controller
-        │
-        ▼
-   Gate Driver
-      │    │
-     HO    LO
-      │    │
-      ▼    ▼
-    上管  下管
-```
+<img width="1056" height="873" alt="image" src="https://github.com/user-attachments/assets/f5f5f9f1-cdfb-485f-b8de-3a7263302027" />
+
 
 常见半桥驱动芯片端口：
 

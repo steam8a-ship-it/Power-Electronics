@@ -2462,7 +2462,7 @@ MOSFET OFF
 
 ## 4.11 🔄 BUCK / BOOST / BUCK-BOOST 对比
 
-## 4.11 🔄 BUCK / BOOST / BUCK-BOOST 对比
+
 
 | 特点 | BUCK 降压 | BOOST 升压 | BUCK-BOOST 升降压 |
 |---|---|---|---|

@@ -1,13 +1,17 @@
 
-  # ⚡ DC-DC 变换器学习笔记
+# ⚡ DC-DC 变换器学习笔记
+
+# ⚡ DC-DC 变换器学习笔记
 
 > 📘 本文件用于系统记录 DC-DC 变换器相关知识，包括基本原理、拓扑结构、重点公式、器件选型、纹波设计、驱动方式及实际设计经验。
 >
-> 后续随着学习逐步补充 BUCK、BOOST、BUCK-BOOST、反激、正激等常见拓扑。
-> 
->DC-DC 转换器 Buck/Boost/Buck-Boost 拓扑选型完全指南
-> 
-> https://www.engstudy.top/questions/articles/dc-dc-%E8%BD%AC%E6%8D%A2%E5%99%A8-buckboostbuck-boost-%E6%8B%93%E6%89%91%E9%80%89%E5%9E%8B%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97
+> 后续随着学习逐步补充 **BUCK、BOOST、BUCK-BOOST、反激、正激** 等常见拓扑。
+
+---
+
+## 📎 参考资料
+
+- [DC-DC 转换器 Buck / Boost / Buck-Boost 拓扑选型完全指南](https://www.engstudy.top/questions/articles/dc-dc-%E8%BD%AC%E6%8D%A2%E5%99%A8-buckboostbuck-boost-%E6%8B%93%E6%89%91%E9%80%89%E5%9E%8B%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97)
 
 ---
 

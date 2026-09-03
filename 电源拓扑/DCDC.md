@@ -1828,7 +1828,7 @@ MOSFET耐压
 开关尖峰
 ```
 <a id="buckboost"></a>
-------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
 # 4️⃣ BUCK-BOOST 升降压变换器
 
 > BUCK-BOOST 可以在输入电压高于或低于目标电压时工作，因此属于 **升降压型 DC-DC 变换器**。
@@ -1869,6 +1869,9 @@ BUCK-BOOST 的核心仍然是：
  ↓
 再释放给输出
 ```
+<img width="1181" height="716" alt="image" src="https://github.com/user-attachments/assets/f4f6a6f1-c826-4e08-9187-04e6c2968348" />
+<img width="1198" height="718" alt="image" src="https://github.com/user-attachments/assets/f298392e-d30d-4ec5-8b40-a80c7b4a9ce0" />
+<img width="1195" height="725" alt="image" src="https://github.com/user-attachments/assets/08d25c36-2a2f-42c4-aa66-b99c98188107" />
 
 ---
 
